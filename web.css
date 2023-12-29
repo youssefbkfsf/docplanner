@@ -1,0 +1,18 @@
+.smkd{
+    background-color: blue;
+    width: 30%;
+}
+/* creation of class container */
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.smkd h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.smkd h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
